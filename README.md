@@ -1,3 +1,7 @@
+Built LinkedIn Clone with React JS (Firebase + Styled Components + Redux)
+
+You can checkout the linked clone that i made by clicking on this link :
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
